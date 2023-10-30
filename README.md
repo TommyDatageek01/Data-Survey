@@ -10,7 +10,7 @@
 - [Insights](#Insights)
   
 ## Project Overview
-Data is the new Oil. The use of Data in every sphere of human endeavour has spiked in the last three years. This is because Data is having more everyday applications in life and industry. Data can be used to;
+Data is the new Oil. The use of Data in every sphere of human endeavour has spiked in the last three years. This is because Data is having more everyday application in life and industry. Data can be used to;
 - Proffer solutions
 - Diagonse problems
 - Uncover new trends
