@@ -28,7 +28,7 @@ Thus, this survey visualization aims to show how Data professionals are fairing 
 - Power Bi
 
 ## Data Anatomy
-The downloaded data set was in Excel format. The data consisted of Columns and rows. The columns included:
+The downloaded data set was in Excel format. The data consisted of about 13 columns and 630 rows. The columns included:
 - unique I.D. 
 - Email
 - Date taken
