@@ -1,5 +1,7 @@
 # Power-Bi-survey-visuals
 
+
+
 ## Introduction
 Data is the new Oil. The rise of the use of Data in almost every sphere of human endeavour has spiked in the last three years. With Data having more applications in everyday life and every industry, this rise in the use of Data has led many to conclude that Data is the new Oil. The use of Data has led to emerging new careers like Data scientists, Data analysts, Data engineers and a host of others. These fields are seeing more interest by the day. According to the U.S. Bureau of Labor Statistics,  data science and analytics jobs and skills are expected to grow significantly. In its prediction, the data science field will grow between 26-35% from 2022 to 2028.
 Thus, this survey visualization aims to show that Data professionals are fairing in their different niches.
