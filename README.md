@@ -67,7 +67,7 @@ While Data Engineer and Data Analyst had 4.34 and 4.49  happiness with salary. H
 
 
 ## How do Data professionals fare in the U.S. and U.K.?
-From the survey, it was discovered that data professionals in the US have an average age of 31 while in the UK data professionals have an average age of 32
+- From the survey, it was discovered that data professionals in the US have an average age of 31 while in the UK data professionals have an average age of 32
 - In the US, the work and salary happiness ratings was 6.38 and 5.0 respectively for Data Professionals. While that of the UK was 5.84 and 4.05. This could probably suggest that Data professionals in the UK are less happy with their numeration compared to fellow advanced countries like the US.
 Overall data professionals in the US seem to be happiest while data professionals from India seem to be the least happy.
 
